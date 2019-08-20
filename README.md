@@ -1,2 +1,2 @@
-# BASE-DE-DATOS-N-01-
-Informe de Laboratorio N° 01
+# BASE-DE-DATOS-N01
+Informe de Laboratorio N° 01 por Franklin Huichi Contreras
